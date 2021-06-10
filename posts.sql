@@ -1,4 +1,4 @@
--- CREATE DATABASE posts;
+CREATE DATABASE posts;
 CREATE TABLE posts(id INT,nombre_de_usuario VARCHAR(24),fecha_de_creacion DATE,contenido VARCHAR(255),descripcion VARCHAR(255));
 
 SELECT * FROM posts;
